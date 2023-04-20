@@ -1,2 +1,1 @@
-# Practice-Draw-and-pinwheel-c-language
-Draw and pinwheel c language
+# Practice-c-language- start 2022.10.25~
